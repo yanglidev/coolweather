@@ -25,6 +25,7 @@ MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\User
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\admin\.android\build-cache\3afcfd3cd2e4745ba2929f831c9718731456e1bf\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\admin\.android\build-cache\6ff26dc2df359a24cefbc26f69aadc282b2d9d87\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\admin\.android\build-cache\58e3d71459c47e166dd869acde4bd38917c760d2\output\AndroidManifest.xml:9:5-20
+MERGED from [org.litepal.android:core:1.4.1] C:\Users\admin\.android\build-cache\ca32506259007073d1fa5eefbdca1e629f24ba13\output\AndroidManifest.xml:11:5-14:19
 	android:label
 		ADDED from D:\Android\workspace\CollWeather\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -63,6 +64,7 @@ MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\User
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\admin\.android\build-cache\3afcfd3cd2e4745ba2929f831c9718731456e1bf\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\admin\.android\build-cache\6ff26dc2df359a24cefbc26f69aadc282b2d9d87\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\admin\.android\build-cache\58e3d71459c47e166dd869acde4bd38917c760d2\output\AndroidManifest.xml:5:5-7:41
+MERGED from [org.litepal.android:core:1.4.1] C:\Users\admin\.android\build-cache\ca32506259007073d1fa5eefbdca1e629f24ba13\output\AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\admin\.android\build-cache\8f0ff9636619da553dc4ac58533355b73875fb73\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
